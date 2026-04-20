@@ -1,4 +1,4 @@
-sender="bhuvanraja31@gmail.com"
-app_password = "zbtw mmch aqra bqwe"
+sender="**********"   #replace your mail id
+app_password = "**** **** ****" #replace your app password here
 
-GEMINI_API_KEY="AIzaSyD0gyM23qSkYZEBW9nTlysswFY_G8y9ipI"
+GEMINI_API_KEY="**************************************" #replace your gemini api key here
